@@ -36,4 +36,6 @@ p2 <- datset %>%
 
 plot(p2)
 
+ggsave(filename = "line_plots/plots/connected_line.png", plot = p2)
+
 # =============================================================================
