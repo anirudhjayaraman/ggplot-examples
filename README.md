@@ -21,4 +21,4 @@ A work-in-progress compilation of plots created with reproducible data to be use
 
 
 #### Circular Bar Plot
-![](distribution_plots/plots/circular_bar.png)
+![](bar_plots/plots/circular_bar.png)
