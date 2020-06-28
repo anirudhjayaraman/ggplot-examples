@@ -4,12 +4,12 @@ A work-in-progress compilation of plots created with reproducible data to be use
 
 #### Plots added so far:
 - ***line_plots***
-	- connected_line.R
+	- [connected_line.R](line_plots/connected_line.R)
 - ***bar_plots***
-	- circular_bar.R
+	- [circular_bar.R](bar_plots/circular_bar.R)
 - ***distribution plots***
-	- simple_density.R
-	- simple_histogram.R
+	- [simple_density.R](distribution_plots/simple_density.R)
+	- [simple_histogram.R](distribution_plots/simple_histogram.R)
 	
 # Example Plots
 #### Connected Line Plot
